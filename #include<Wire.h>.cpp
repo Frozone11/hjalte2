@@ -20,6 +20,7 @@ void setup() {
   pinMode(echoPinF, INPUT);
   pinMode(echoPinL, INPUT);
 }    
+//hej
  
 void loop() {
   keepDistance();
